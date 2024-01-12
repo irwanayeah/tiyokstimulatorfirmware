@@ -1,1 +1,1 @@
-# TiyokStimulator Firmwares
+# TiyokStimulator Firmware
